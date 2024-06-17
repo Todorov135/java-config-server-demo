@@ -7,6 +7,11 @@
       <module name="demo-server" target="21" />
       <module name="demo-server.main" target="21" />
       <module name="demo-server.test" target="21" />
+      <module name="first_microserver.main" target="21" />
+      <module name="first_microserver.test" target="21" />
+      <module name="second_microserver" target="21" />
+      <module name="second_microserver.main" target="21" />
+      <module name="second_microserver.test" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>

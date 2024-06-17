@@ -6,7 +6,6 @@
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/config-server" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Gradle/gradle-8.7" />
-        <option name="gradleJvm" value="21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/config-server" />
@@ -14,18 +13,18 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/first_microserver" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/first_microservice" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/first_microserver" />
+            <option value="$PROJECT_DIR$/first_microservice" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/second_microserver" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/second_microservice" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/second_microserver" />
+            <option value="$PROJECT_DIR$/second_microservice" />
           </set>
         </option>
       </GradleProjectSettings>

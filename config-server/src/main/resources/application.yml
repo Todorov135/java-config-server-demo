@@ -8,4 +8,5 @@ spring:
       server:
         git:
           uri: https://github.com/Todorov135/java-config-server-values
+          default-label: microservices-config
           skipSslValidation: true
